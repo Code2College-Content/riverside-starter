@@ -1,0 +1,26 @@
+section,item,price,description,available
+Breakfast,Two Egg Plate,9.50,"Two eggs any style, hash browns, toast",yes
+Breakfast,Riverside Short Stack,7.75,"Three buttermilk pancakes, butter and syrup",yes
+Breakfast,Blueberry Pancakes,9.25,Three pancakes with blueberries cooked in,yes
+Breakfast,Peach Pancakes,9.75,Three pancakes with fresh peaches,summer only (not now)
+Breakfast,Country Biscuits and Gravy,8.50,"Two biscuits, sausage gravy",yes
+Breakfast,Denver Omelet,11.25,"Ham, peppers, onion, cheese, with toast",yes
+Breakfast,Veggie Omelet,10.75,"Spinach, tomato, mushroom, cheese, with toast",yes
+Breakfast,French Toast,8.95,"Thick cut, powdered sugar",yes
+Breakfast,Oatmeal Bowl,6.25,Brown sugar and raisins,yes
+Lunch,Patty Melt,11.95,"Grilled onions, Swiss, rye, with fries",yes
+Lunch,Club Sandwich,11.50,"Turkey, bacon, lettuce, tomato, with fries",yes
+Lunch,Grilled Cheese and Tomato Soup,9.25,"Cheddar on sourdough, cup of soup",yes
+Lunch,Chicken Fried Steak,13.75,"Cream gravy, mashed potatoes, green beans",yes
+Lunch,Friday Catfish Plate,market price,"Fridays only. Fried catfish, slaw, hush puppies",Fridays only
+Lunch,Chef Salad,10.50,"Ham, turkey, egg, cheese, house dressing",yes
+Lunch,Soup of the Day,4.50,Cup. Ask your server,yes
+Sides,Hash Browns,3.25,,yes
+Sides,Bacon (3 strips),3.75,,yes
+Sides,Toast or Biscuit,2.00,,yes
+Sides,Fries,3.25,,yes
+Drinks,Coffee,2.25,Bottomless,yes
+Drinks,Coffee,2.50,Bottomless refills,yes
+Drinks,Iced Tea,2.50,Sweet or unsweet,yes
+Drinks,Orange Juice,3.50,,yes
+Drinks,Milk,2.25,,yes
